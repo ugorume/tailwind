@@ -1060,6 +1060,9 @@ module.exports = {
       50: '50',
     },
     extend: {
+      fontfamily:{
+        body:['Nunito']
+      },
       colors:{
         'primary':'#ff6363',
         secondary:{
